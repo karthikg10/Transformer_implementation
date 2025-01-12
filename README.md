@@ -6,8 +6,11 @@ This repository contains the implementation of the Transformer assignment, desig
 Course Information
 
 Professor: Jorjeta Jetcheva
+
 T.A.: Hardy Leung
+
 Year: 2023
+
 This assignment was developed to provide students with practical experience in implementing the Transformer architecture.
 
 Repository Content
@@ -66,5 +69,7 @@ This project is part of the CMPE-259 coursework and is licensed under educationa
 References
 
 Professor Jorjeta Jetcheva, CMPE-259 Course Material, SJSU
+
 Attention is All You Need by Vaswani et al.
+
 PyTorch Documentation
