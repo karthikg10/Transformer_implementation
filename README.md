@@ -65,8 +65,6 @@ This project is part of the CMPE-259 coursework and is licensed under educationa
 
 References
 
+Professor Jorjeta Jetcheva, CMPE-259 Course Material, SJSU
 Attention is All You Need by Vaswani et al.
 PyTorch Documentation
-Contact
-
-For questions regarding the coursework, reach out to the course staff or T.A.
