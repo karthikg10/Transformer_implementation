@@ -32,7 +32,7 @@ tqdm (optional, for progress tracking)
 Setup Instructions
 
 Clone the repository:
-git clone https://github.com/yourusername/transformer-homework.git
+git clone https://github.com/karthikg10/transformer_implementation.git
 cd transformer-homework
 Install dependencies:
 pip install torch numpy tqdm
