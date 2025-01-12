@@ -9,7 +9,9 @@ Professor: Jorjeta Jetcheva
 
 T.A.: Hardy Leung
 
-Year: 2023
+Year: 2024
+
+San Jose State University
 
 This assignment was developed to provide students with practical experience in implementing the Transformer architecture.
 
